@@ -1,7 +1,3 @@
-CREATE DATABASE [Filmes]
-GO
-USE [Filmes]
-GO
 
 SET ANSI_NULLS ON
 GO
